@@ -31,7 +31,7 @@ __5. Ubuntu Basic Commands__
 
 * __GIT__
    __1. What is GIT?__
-   __2. Usage__
+     2. Usage__
 
 
 

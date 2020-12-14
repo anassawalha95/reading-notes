@@ -30,8 +30,8 @@ __5. Ubuntu Basic Commands__
 ## Class 03  *Dec 14 2020:*
 
 * __GIt__
-_1. What is GIt?
-_2. Usage
+   1. What is GIt?
+   2. Usage
 
 
 

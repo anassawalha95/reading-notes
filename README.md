@@ -24,4 +24,7 @@ __3. Ubuntu Installation and configuration__
 
 __4. Installing Tools on Ubuntu__ 
 
+__5. Ubuntu Basic Commands__ 
+
+Ubuntu Basic Commands
 

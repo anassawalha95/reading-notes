@@ -1,5 +1,5 @@
 
-# Class 01 *Dec 19 2020:*
+# Class 01 *Dec 13 2020:*
 > ## topics
 1. Accounts Set up Slack, GitHub, and Canvas
 

@@ -57,8 +57,7 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 ### Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![MarkDown](https://lh3.googleusercontent.com/proxy/jKY5rkK7zrt32Ye_1P0ICi5hEgssTRT6LSScIQlPMSW2H0zDHsAieLvL2-_E-wVxwvR11mrq6iPpTnVehaV2DLL4QIoiK5n88KvSccUVFw)
 
 ### Links
 http://W3schools.com - automatic!

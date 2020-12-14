@@ -76,7 +76,7 @@ __wsl --set-default-version 2__
 __*if an error is thrown then: visit, download and install [wsl2kernel](https://aka.ms/wsl2kernel)*__
 
 
-> ## 3. Ubuntu Installation:
+#### 3. Ubuntu Installation:
 
 * Go to "Microsoft Store" download and install __'Ubuntu'__
 * Open the Ubuntu after finish Installing and check the wsl version is two by entering  "wsl -l -v"

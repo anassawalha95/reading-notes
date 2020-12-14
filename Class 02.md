@@ -54,4 +54,15 @@ wrangles your text together into something meaningful.
 different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
 
+---
+
+
+> ## 2. Work Station confiquration:
+
+#### Virtualization Requirements: 
+ __Go to Turn Windows Features On Off Then Enable The Following:__
+ 
+* Virtual Machine Platform
+* Windows Hypervisor Platform
+* Windows Subsystem for Linux
 

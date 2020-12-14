@@ -12,7 +12,7 @@ __4. Professional Competency Self-Assessment__
 
 
 
-
+---
 
 ## Class 02  *Dec 13 2020:*
 
@@ -27,11 +27,16 @@ __4. Installing Tools on Ubuntu__
 __5. Ubuntu Basic Commands__ 
 
 
+---
+
+
 ## Class 03  *Dec 14 2020:*
 
 * __GIT__
+
    __1. What is GIT?__
-     2. Usage__
+   
+     __2. Usage__
 
 
 

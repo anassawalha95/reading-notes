@@ -19,10 +19,14 @@ __3. First Project On HTML__
 
 We use the HTML & CSS to create the frontend where the for users from all over the world but before start designing there is some major questions pops up that needs to be answerd:
  1. is the required website for an individual or a company?
+ 
  2. who's the targeted segment ? 
- 3- is it global or local wide ?
- 4- what is the preferable design?
- 5- what type of the website is ?
+ 
+ 3. is it global or local wide ?
+ 
+ 4. what is the preferable design?
+ 
+ 5. what type of the website is ?
  
  
  -----

@@ -83,6 +83,25 @@ __*if an error is thrown then: visit, download and install [wsl2kernel](https://
 
 
 
+> ##4. Installing Tools on Ubuntu
 
+#### Use the app-get install <name> to install tools on Ubuntu so far the installed tools are:
+ 1. code 
+ 2. git 
+ 3. node
+ 4. npm 
+ 5. eslint 
+ 6. tree 
+ 
+ __The output of:-__
+* code --version: 1.52.0 940b5f4bb5fa47866a54529ed759d95d09ee80be x64
+* git --version: git version 2.25.1
+* node --version: v10.19.0
+* npm --version: 6.14.4
+* eslint --version: v5.0.1
+* tree --version: tree v1.8.0 (c) 1996 - 2018 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
+* echo $PS1: \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+* cat ~/.gitconfig: [user]name = anasswalha95    email = anas.swalha@yahoo.com  [core]editor = emacs
+ 
 
 

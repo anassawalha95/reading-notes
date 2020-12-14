@@ -16,7 +16,7 @@ __3. First Project On HTML__
 ---
 
 > ## 2. HTML & CSS Process and Design:
-
+![HTML & CSS](https://holyokecodes.org/wp-content/uploads/2016/04/htmlcss.png)
 We use the HTML & CSS to create the frontend where the for users from all over the world but before start designing there is some major questions pops up that needs to be answerd:
  1. is the required website for an individual or a company?
  
@@ -32,7 +32,7 @@ We use the HTML & CSS to create the frontend where the for users from all over t
  -----
  
  > ## 3. First Project On HTML
-
+`
 <!DOCTYPE html>
 <html lang="en">
 
@@ -116,3 +116,4 @@ We use the HTML & CSS to create the frontend where the for users from all over t
 </body>
 
 </html>
+`

@@ -57,12 +57,32 @@ manager, a compiler, and a debugger all in one software package.
 ---
 
 
-> ## 2. Work Station confiquration:
+> ## 2. Work Station confiquration _[referance](https://codefellows.github.io/setup-guide/system-setup/)_:
 
-#### Virtualization Requirements: 
- __Go to Turn Windows Features On Off Then Enable The Following:__
+#### 1- Virtualization:  
+ __Go to "Turn Windows Features On Off" Then Enable The Following:__
  
 * Virtual Machine Platform
 * Windows Hypervisor Platform
 * Windows Subsystem for Linux
+
+#### 2- Installing Windows Terminal from Microsoft Store:
+__Go to "Microsoft Store" download and install Windows Terminal__
+
+#### 3- Wsl 2
+__Go to "Windows Terminal -> PowerShell" Then Type  The Following:__
+
+__wsl --set-default-version 2__
+__*if an error is thrown then: visit, download and install [wsl2kernel](https://aka.ms/wsl2kernel)*__
+
+
+> ## 3. Ubuntu Installation:
+
+* Go to "Microsoft Store" download and install __'Ubuntu'__
+* Open the Ubuntu after finish Installing and check the wsl version is two by entering  "wsl -l -v"
+
+
+
+
+
 

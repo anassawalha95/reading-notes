@@ -1,4 +1,4 @@
-> # index of content 
+> # Table of Content 
 
 ## Class 01  *Dec 19 2020:*
 

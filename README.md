@@ -2,9 +2,9 @@
 
 ## Class 01  *Dec 19 2020:*
 
-1- Professional Competency Self-Assessment
-1- Setup Github account
-1- Markdown
-1- ubintu cmd 
-1- Computer configuration 
-1- The Growth Mindset concept 
+__1- Professional Competency Self-Assessment__
+__1- Setup Github account__
+__1- Markdown__
+__1- ubuntu cmd__ 
+__1- Computer configuration__ 
+__1- The Growth Mindset concept__ 

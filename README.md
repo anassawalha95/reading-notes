@@ -16,8 +16,10 @@ __4. Professional Competency Self-Assessment__
 
 ## Class 02  *Dec 13 2020:*
 
-__1. ubuntu cmd__
+__1. Work Station confiquration__
 
-__2. Computer configuration__ 
+__2. Ubuntu Installation and configuration__
+
+__3. Installing Tools on Ubuntu__ 
 
 

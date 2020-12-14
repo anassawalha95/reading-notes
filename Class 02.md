@@ -9,6 +9,8 @@ __3. Ubuntu Installation and configuration__
 
 __4. Installing Tools on Ubuntu__ 
 
+__5. Basic Commands__
+
 ---
 
 > ## 1. Text Editors
@@ -102,6 +104,20 @@ __*if an error is thrown then: visit, download and install [wsl2kernel](https://
 * tree --version: tree v1.8.0 (c) 1996 - 2018 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro
 * echo $PS1: \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
 * cat ~/.gitconfig: [user]name = anasswalha95    email = anas.swalha@yahoo.com  [core]editor = emacs
+ 
+ > ##5. Ubuntu Basic Commands [Tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php)
+ 
+* Pwd: print working directory 
+* Ls: list
+* you can print out the content of a file using ls to print it out in terminal  
+* Cd: change directory 
+* you can hit tap button to auto fill the folder name after entering a letter or more 
+* Makedir: create folder
+* Touch: creates a file 
+* Chmod: change file type mode
+
+
+ 
  
 
 

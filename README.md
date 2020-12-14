@@ -11,7 +11,7 @@ __3. Markdown__
 __4. Professional Competency Self-Assessment__
 
 
----
+
 
 
 ## Class 02  *Dec 13 2020:*
@@ -25,6 +25,18 @@ __3. Ubuntu Installation and configuration__
 __4. Installing Tools on Ubuntu__ 
 
 __5. Ubuntu Basic Commands__ 
+
+
+## Class 03  *Dec 14 2020:*
+
+* __GIt__
+_1. What is GIt?
+_2. Usage
+
+
+
+
+
 
 
 

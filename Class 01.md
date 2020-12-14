@@ -1,13 +1,22 @@
 
-## Stuff we learned on *Dec 19 2020:*
-1- Professional Competency Self-Assessment
-1- Setup Github account
-1- Markdown
-1- ubintu cmd 
-1- Computer configuration 
-1- The Growth Mindset concept 
+# Class 01 *Dec 19 2020:*
+> ## topics
+1. Accounts Set up Slack, GitHub, and Canvas
 
-### The growth mindset in brief _[Article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)_
+2. The Growth Mindset concept
+
+3. Markdown
+
+4. Professional Competency Self-Assessmentt 
+
+---
+> ## 1. Accounts Set up Slack, GitHub, and Canvas:
+ - Slack  is used for communicating with colleagues espically in information sector
+ - Github is a website that facilitate development work globaly and collaboration 
+ - Canvas is an online platform for teaching and  grading 
+ 
+---
+> ## 2.  The growth mindset in brief _[Article](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)_
 ![Mindset](
 https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 The growth mindset is a psychological approach were you have to be self-motivated for learning in all different sciences also in your specialty. Although it has a great side in breaking stereotypes, laziness and increasing motivation, productivity. Also the added values of not being trapped in monkey mindset is that it utilize overcome challenges, obstacles, criticism  and increases efforts for doing different things.
@@ -17,7 +26,9 @@ The growth mindset is a psychological approach were you have to be self-motivate
 *	Reminding myself that the present day won’t be repeated 
 *	Reading books 
 
-
+ ---
+> ## 3. MarkDown
+***Defeintion:* it's a text-to-HTML conversion software in addition to being a markup language.**
 # Practicing MarkDown
 ## Headers
 # This is an <h1> tag
@@ -60,3 +71,17 @@ As Kanye West said:
 Inline code
 I think you should use an
 `<addr>` element here instead.
+
+---
+
+> ## 4. Professional Competency Self-Assessment:
+##### **The three main strength skills are:** 
+1. Curiosity
+2. Tools Proficiency
+3. Dependability and Reliability
+
+##### **The three main skills to grow are:** 
+
+1.	Agile
+2.	Collaboration
+3.	Judgement

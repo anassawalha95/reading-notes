@@ -16,10 +16,12 @@ __4. Professional Competency Self-Assessment__
 
 ## Class 02  *Dec 13 2020:*
 
-__1. Work Station confiquration__
+__1. Text Editors__
 
-__2. Ubuntu Installation and configuration__
+__2. Work Station confiquration__
 
-__3. Installing Tools on Ubuntu__ 
+__3. Ubuntu Installation and configuration__
+
+__4. Installing Tools on Ubuntu__ 
 
 

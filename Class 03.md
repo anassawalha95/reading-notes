@@ -34,7 +34,7 @@
    4. Staged
    
    *check the picture below:*
-   [GIT Stages](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+   ![GIT Stages](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
  
  ---
  ## * How to Stage Files ?

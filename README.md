@@ -69,7 +69,28 @@ __3. Rules, properties, and values__
 ---
 
 
-## Class 06  *Dec 15 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2006)
+## Class 06 Lab A  *Dec 15 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2006-LabA)
+
+
+__1. History of Computer__
+
+__2. How Computer Works__
+
+      a. Computer Input, Output, Proccess, Storage
+      
+      b. Binary and Data 
+      
+      c. Circuts and Login 
+      
+      d. Cpu Input and Output
+      
+      e. Hardware and Software
+      
+      f. operating systems
+
+---
+
+## Class 06 Lab B  *Dec 15 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2006-LabB)
 
 
 __1. History of Computer__

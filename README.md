@@ -75,11 +75,17 @@ __3. Rules, properties, and values__
 __1. History of Computer__
 
 __2. How Computer Works__
+
       a. Computer Input, Output, Proccess, Storage
+      
       b. Binary and Data 
+      
       c. Circuts and Login 
+      
       d. Cpu Input and Output
+      
       e. Hardware and Software
+      
       f. operating systems
 
 

@@ -182,3 +182,49 @@ text-align: center;
   }
 
  .tutorial-container{ padding: 32px;}
+
+ .input{
+     text-align: center;
+     margin-top: 20px;
+     color: white;
+ }
+
+ .input > button , #submit  {
+     background-color: rgb(22, 114, 253);
+     padding: 25px;
+     border: none;
+     border-radius: 5px;
+     color: white;
+     margin-bottom: 15px;
+     width: 200px;
+     height: 100px;
+     background: red;
+     transition: width 1s;
+     
+ }
+
+ .input  button:hover , #submit:hover {
+    width: 300px;
+    background-color: red;
+    color: white;
+    
+
+}
+
+input[type=text]{
+    width: 150px;
+     height: 33px;
+     transition: width 1s;
+     border: none;
+     border-radius: 3px;
+}
+
+input[type=text]:hover{
+    width: 200px;
+}
+
+
+
+
+
+ 

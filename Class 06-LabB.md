@@ -1,5 +1,5 @@
 
-# Class 06 *Dec 15 2020:*
+# Class 06 Lab B *Dec 15 2020:*
 
 > # topics
 

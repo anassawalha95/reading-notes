@@ -42,7 +42,7 @@ __5. Ubuntu Basic Commands__
      __2. Usage__
 
 
-
+---
 
 ## Class 04  *Dec 14 2020:*
 
@@ -51,6 +51,22 @@ __1. What is Html?__
 __2. HTML & CSS Process and Design__
 
 __3. First Project On HTML__
+
+
+---
+
+
+## Class 05  *Dec 15 2020:*
+
+__1. Introducing CSS__
+
+__2. How CSS works__
+
+__3. Rules, properties, and values__
+
+
+
+---
 
 
 

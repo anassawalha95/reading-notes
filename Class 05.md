@@ -50,6 +50,14 @@ __3. Colors__
   1. background-color
   2. color : to set the text color 
  
+##### Examples:
+
+* body {background-color: rgb(200,200,200);}
+* h1 {background-color: DarkCyan;}
+* h2 {background-color: #ee3e80;}
+* p {background-color: white;}
 
 
 ---
+
+

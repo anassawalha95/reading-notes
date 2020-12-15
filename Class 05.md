@@ -9,7 +9,8 @@ __3. Colors__
 
 > ## 1. Introducing CSS:
 
-  ### ***CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML 
+
+  ### *** CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML 
   
 
 > ## 2. How CSS works:

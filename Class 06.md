@@ -53,7 +53,7 @@ time,and each gave us either a new and improved computer or an improvement to th
  * all date in computer are translated to 0/1 through differant layers.
  * the zero one is called a binary system where its as same as the decimal numbering system 
  
- ![zero one](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdY-JYvrWUgYDdMYeRQVScMyNQpBb6s2v2RQ&usqp=CAU)
+ ![zero one](https://media.istockphoto.com/photos/zero-one-computer-binary-big-data-cyber-information-security-picture-id1067755908)
  
   
  > ### c. Circuts and Login

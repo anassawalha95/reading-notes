@@ -22,8 +22,7 @@ __2. How Computer Works__
 
 > ## 1. History of Computer:
 
-* **The computer as we know it today had its beginning with a 19th century English mathematics professor name Charles BabbageGenerally speaking, computers can be classified into three generations. Each generation lasted for a certain period of
-time,and each gave us either a new and improved computer or an improvement to the existing computer. **
+* **The computer as we know it today had its beginning with a 19th century English mathematics professor name Charles BabbageGenerally speaking, computers can be classified into three generations. Each generation lasted for a certain period of time,and each gave us either a new and improved computer or an improvement to the existing computer. **
 
 * **First generation: 1937 – 1946 - In 1937 the first electronic digital computer was built by Dr. John V. Atanasoff and Clifford Berry. It was called the Atanasoff-Berry Computer (ABC). In 1943 an electronic computer name the Colossus was built for the military. Other developments continued until in 1946 the first general– purpose digital computer, the Electronic Numerical Integrator and Computer (ENIAC) was built. It is said that this computer weighed 30 tons, and had 18,000 vacuum tubes which was used for processing. When this computer was turned on for the first time lights dim in sections of Philadelphia. Computers of this generation could only perform single task, and they had no operating system.**
 

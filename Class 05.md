@@ -31,8 +31,25 @@ __3. Colors__
 | General Sibling Selector  | Sibling of another Matches an element that is a sibling of another, although it does not have to be the directly preceding element | h1~p {} If you had two elements that are siblings of an element, this rule would apply to both                                                                                                                 |
 
 
+---
+
+
 > ## 2. Colors:
 
+### How to specify colors: 
+  ** Colors are very divergent where you can pick from 10 million colors, in order to use colors in style sheets you can pick and chosse from these methods :
+  1. RGB  : `rgb(102,205,170)`
+  2. Hex Codes  : `#66cdaa`
+  3. Color Names: `MediumAquaMarine`
+  4. HSL        :  `hsl(0, 100%, 50%)`
+  5. RGBA : `rgba(102,205,170,1)` *the a value stands for opacity*
+  
+### Colors Properties:
+  ** There are two main colors properties in Css:
+  
+  1. background-color
+  2. color : to set the text color 
+ 
 
 
-
+---

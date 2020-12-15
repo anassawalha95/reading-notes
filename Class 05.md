@@ -13,13 +13,13 @@ __3. Rules, properties, and values__
 
 > ## 2. How CSS works:
   ### CSS untilize selectors on HTML tags by:
-    1. creating a new `.css` file 
+    1. creating a new ` .css ` file 
     2. useing selectors:
-       * selector are consist of `<selector name> { key:value; }`
-          _For Example: p {font-size: 75%;}
+      * selector are consist of `<selector name> { key:value; }`
+        For Example: p {font-size: 75%;}
           
  ### Types of Selectors: 
-| Selector                  | Meaning                                                                                                                            | Example 
+| ### Selector                  | ### Meaning                                                                                                                            | ### Example 
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Universal Selector        | Applies to all elements in the document                                                                                            | * {} Targets all elements on the page                                                                                                                                                                          |           
 | Type Selector             | Matches element names                                                                                                              | h1, h2, h3 {} Targets the , and elements                                                                                                                                                                       |

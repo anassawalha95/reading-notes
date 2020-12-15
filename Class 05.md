@@ -5,7 +5,7 @@ __1. Introducing CSS__
 
 __2. How CSS works__
 
-__3. Rules, properties, and values__
+__3. Colors__
 
 > ## 1. Introducing CSS:
   ### ***CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML 
@@ -13,13 +13,13 @@ __3. Rules, properties, and values__
 
 > ## 2. How CSS works:
   ### CSS untilize selectors on HTML tags by:
-    1. creating a new ` .css ` file 
+    1. creating a new  .css file 
     2. useing selectors:
-      * selector are consist of `<selector name> { key:value; }`
+      * selector are consist of <selector name> { key:value; }
         For Example: p {font-size: 75%;}
           
  ### Types of Selectors: 
-| ### Selector                  | ### Meaning                                                                                                                            | ### Example 
+| **Selector**                  | **Meaning**                                                                                                                            |  **Example** 
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Universal Selector        | Applies to all elements in the document                                                                                            | * {} Targets all elements on the page                                                                                                                                                                          |           
 | Type Selector             | Matches element names                                                                                                              | h1, h2, h3 {} Targets the , and elements                                                                                                                                                                       |
@@ -29,3 +29,10 @@ __3. Rules, properties, and values__
 | Descendant Selector       | Matches an element that is a descendent of another specified element (not just a direct child of that element)                     | p a {}Targets any elements that’s it inside a element, even if there are other elements nested between them                                                                                                    |
 | Adjacent Sibling Selector | Matches an element that is the next                                                                                                | h1+p {} Targets the first element after any element (but not other elements)                                                                                                                                   |
 | General Sibling Selector  | Sibling of another Matches an element that is a sibling of another, although it does not have to be the directly preceding element | h1~p {} If you had two elements that are siblings of an element, this rule would apply to both                                                                                                                 |
+
+
+> ## 2. Colors:
+
+
+
+

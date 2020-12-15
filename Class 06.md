@@ -21,6 +21,7 @@ __2. How Computer Works__
 ---
 
 > ## 1. History of Computer:
+
 * **The computer as we know it today had its beginning with a 19th century English mathematics professor name Charles BabbageGenerally speaking, computers can be classified into three generations. Each generation lasted for a certain period of
 time,and each gave us either a new and improved computer or an improvement to the existing computer. **
 
@@ -35,18 +36,27 @@ time,and each gave us either a new and improved computer or an improvement to th
 > ## 2. How Computer Works:
 
 ![vaccum tubes](https://www.nutsvolts.com/uploads/articles/NV_1106_Trinkaus_large.jpg)
+
 > ### a. Computer Input, Output, Proccess, Storage
+
   **Computer We know today was first invinted using vaccum tubes, scientes realized  that to design a computer the have to perform differnet tasks**
+  
   1. Input 
+  
   2. Storage 
+  
   3. Processing 
+  
   4. Output
  
  ![computer cycle](https://www.ictlounge.com/Images/input_process_output_diagr2.gif)
  
  > ### b. Binary and Data 
+ 
  * computer send data through wires inside the computer by reprsenting it state with a puls on/off or zero/one, when the circut is closed it represent on and when its off it represent off the 0/1 called a bit and the more bits are data. 
+ 
  * all date in computer are translated to 0/1 through differant layers.
+ 
  * the zero one is called a binary system where its as same as the decimal numbering system 
  
  ![zero one](https://media.istockphoto.com/photos/zero-one-computer-binary-big-data-cyber-information-security-picture-id1067755908)
@@ -69,7 +79,8 @@ time,and each gave us either a new and improved computer or an improvement to th
  
  ![cpu I/O](https://upload.wikimedia.org/wikipedia/commons/1/15/Computer1.png)
  
- **CPU** take it data from computer peripherals through electric signal then it proccessed and saved on storage devices like hardisks or saved temperorly on RAM (Random Access Memory) for further use, after that it sends the CPU output like: screens and printers
+ **CPU** take it data from computer peripherals through electric signal then it proccessed and saved on storage devices like hardisks or saved temperorly on RAM (Random Access Memory) for further use, after that it sends the CPU output like: screens and printers.
+ 
  ![computer peripherals](https://previews.123rf.com/images/stoyanh/stoyanh1402/stoyanh140200052/26082711-computer-peripherals-and-accessories-icons.jpg)
  
  

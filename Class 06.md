@@ -11,12 +11,8 @@ __2. How Computer Works__
       c. Circuts and Login 
       d. Cpu Input and Output
       e. Hardware and Software
+      f. operating systems
 
-__3. Ubuntu Installation and configuration__
-
-__4. Installing Tools on Ubuntu__ 
-
-__5. Ubuntu Basic Commands__
 
 ---
 
@@ -56,10 +52,41 @@ time,and each gave us either a new and improved computer or an improvement to th
  ![zero one](https://media.istockphoto.com/photos/zero-one-computer-binary-big-data-cyber-information-security-picture-id1067755908)
  
   
- > ### c. Circuts and Login
+ > ### c. Circuts and Logic
+ 
+ * **Circuts Deifinetion:** Complete path or combination of interconnected paths for electron flow in a computer. Computer circuits are binary in concept, having only two possible states. They use on-off switches (transistors) that are electrically opened and closed in nanoseconds and picoseconds (billionths and trillionths of a second).
+ 
+ * Circuts are made of semiconductor where is the semiconductor are made from sand throw a ver long process
+ 
+ ![circut](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PMTqoTA0lAfFX71twVthou1XNw2Th1SBSQ&usqp=CAU)
+ 
+ **Computer Logic:** is made from gates where gates have different types like inverting the one to zero.
+ 
+ ![Computer gates](https://2.bp.blogspot.com/-rvLMbAdOrao/WOu579v-axI/AAAAAAAAAJM/BXjx4L75Nn4byDoaDOg9KufCnfUIWpAywCLcB/s640/Screen%2BShot%2B2017-04-11%2Bat%2B00.58.57.png)
+ 
  
  > ### d. Cpu Input and Output
  
+ ![cpu I/O](https://upload.wikimedia.org/wikipedia/commons/1/15/Computer1.png)
+ 
+ **CPU** take it data from computer peripherals through electric signal then it proccessed and saved on storage devices like hardisks or saved temperorly on RAM (Random Access Memory) for further use, after that it sends the CPU output like: screens and printers
+ ![computer peripherals](https://previews.123rf.com/images/stoyanh/stoyanh1402/stoyanh140200052/26082711-computer-peripherals-and-accessories-icons.jpg)
+ 
+ 
  > ### e. Hardware and Software
  
+ **Hardware Definition:** Computer hardware refers to the physical parts of a computer and related devices, for example wires,chips and circuts
+ 
+ **Software Definition:** instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system
+ 
+ **software gives the hardware command to execute throw simple logic and these command translated into thousands of zero's and one's  **
+ 
+ ![Hardware & software](https://i.ytimg.com/vi/NARrnGza4kA/maxresdefault.jpg)
+ 
+ > ###  f. operating systems
+ 
+ **operating system (OS)** is system software that manages computer hardware, software resources, and provides common services for computer programs.
+ for example: Windows, Linux, Mac OS
+ 
+ ![operating system](https://www.howtogeek.com/thumbcache/2/200/8b2cb8c7c5fc73604d66fd5f0c38be7a/wp-content/uploads/2018/08/img_5b68e80f77e33.png)
  

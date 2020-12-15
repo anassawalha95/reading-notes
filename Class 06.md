@@ -36,7 +36,7 @@ __2. How Computer Works__
 
 ![vaccum tubes](https://www.nutsvolts.com/uploads/articles/NV_1106_Trinkaus_large.jpg)
 
-> ### a. Computer Input, Output, Proccess, Storage
+> ### A. Computer Input, Output, Proccess, Storage
 
   **Computer We know today was first invinted using vaccum tubes, scientes realized  that to design a computer the have to perform differnet tasks**
   
@@ -50,7 +50,7 @@ __2. How Computer Works__
  
  ![computer cycle](https://www.ictlounge.com/Images/input_process_output_diagr2.gif)
  
- > ### b. Binary and Data 
+ > ### B. Binary and Data 
  
  * computer send data through wires inside the computer by reprsenting it state with a puls on/off or zero/one, when the circut is closed it represent on and when its off it represent off the 0/1 called a bit and the more bits are data. 
  
@@ -61,7 +61,7 @@ __2. How Computer Works__
  ![zero one](https://media.istockphoto.com/photos/zero-one-computer-binary-big-data-cyber-information-security-picture-id1067755908)
  
   
- > ### c. Circuts and Logic
+ > ### C. Circuts and Logic
  
  * **Circuts Deifinetion:** Complete path or combination of interconnected paths for electron flow in a computer. Computer circuits are binary in concept, having only two possible states. They use on-off switches (transistors) that are electrically opened and closed in nanoseconds and picoseconds (billionths and trillionths of a second).
  
@@ -74,7 +74,7 @@ __2. How Computer Works__
  ![Computer gates](https://2.bp.blogspot.com/-rvLMbAdOrao/WOu579v-axI/AAAAAAAAAJM/BXjx4L75Nn4byDoaDOg9KufCnfUIWpAywCLcB/s640/Screen%2BShot%2B2017-04-11%2Bat%2B00.58.57.png)
  
  
- > ### d. Cpu Input and Output
+ > ### D. Cpu Input and Output
  
  ![cpu I/O](https://upload.wikimedia.org/wikipedia/commons/1/15/Computer1.png)
  
@@ -83,7 +83,7 @@ __2. How Computer Works__
  ![computer peripherals](https://previews.123rf.com/images/stoyanh/stoyanh1402/stoyanh140200052/26082711-computer-peripherals-and-accessories-icons.jpg)
  
  
- > ### e. Hardware and Software
+ > ### E. Hardware and Software
  
  **Hardware Definition:** Computer hardware refers to the physical parts of a computer and related devices, for example wires,chips and circuts
  
@@ -93,7 +93,7 @@ __2. How Computer Works__
  
  ![Hardware & software](https://i.ytimg.com/vi/NARrnGza4kA/maxresdefault.jpg)
  
- > ###  f. operating systems
+ > ###  F. operating systems
  
  **operating system (OS)** is system software that manages computer hardware, software resources, and provides common services for computer programs.
  for example: Windows, Linux, Mac OS

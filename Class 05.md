@@ -10,12 +10,12 @@ __3. Colors__
 > ## 1. Introducing CSS:
 
 
-  ### ***CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML ###
+   ***CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML ###
   
 
 > ## 2. How CSS works:
 
-  ### CSS untilize selectors on HTML tags by: 
+   CSS untilize selectors on HTML tags by: 
   
     1. creating a new  .css file 
     
@@ -26,7 +26,7 @@ __3. Colors__
         For Example: p {font-size: 75%;}
           
           
- ### Types of Selectors: 
+ Types of Selectors: 
  
 | **Selector**                  | **Meaning**                                                                                                                            |  **Example** 
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

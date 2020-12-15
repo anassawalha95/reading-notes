@@ -8,11 +8,13 @@ __2. How CSS works__
 __3. Colors__
 
 > ## 1. Introducing CSS:
+
   ### ***CSS Stands For:*** cascading style sheets, it allow you to create rules to HTML Tags in order to design it after structuring the web page with HTML 
   
 
 > ## 2. How CSS works:
-  ### CSS untilize selectors on HTML tags by:
+
+  ###CSS untilize selectors on HTML tags by:
     1. creating a new  .css file 
     2. useing selectors:
       * selector are consist of <selector name> { key:value; }
@@ -39,6 +41,7 @@ __3. Colors__
 > ## 2. Colors:
 
 ### How to specify colors: 
+
   ** Colors are very divergent where you can pick from 10 million colors, in order to use colors in style sheets you can pick and chosse from these methods :
   1. RGB  : `rgb(102,205,170)`
   2. Hex Codes  : `#66cdaa`
@@ -47,6 +50,7 @@ __3. Colors__
   5. RGBA : `rgba(102,205,170,1)` *the a value stands for opacity*
   
 ### Colors Properties:
+
   ** There are two main colors properties in Css:
   
   1. background-color
@@ -66,6 +70,7 @@ __3. Colors__
 ## HTML & CSS Project:
 
 ## The HTML PAGE:
+
 <!DOCTYPE html>
 <html lang="en">
 

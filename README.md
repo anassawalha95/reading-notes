@@ -3,7 +3,7 @@
 
 > # Table of Content 
 
-## Class 01  *Dec 13 2020:*
+## Class 01  *Dec 13 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2001)
 
 __1. Accounts Set up Slack, GitHub, and Canvas__ 
 
@@ -17,7 +17,7 @@ __4. Professional Competency Self-Assessment__
 
 ---
 
-## Class 02  *Dec 13 2020:*
+## Class 02  *Dec 13 2020:*  [view](https://anassawalha95.github.io/reading-notes/Class%2002)
 
 __1. Text Editors__
 
@@ -33,7 +33,7 @@ __5. Ubuntu Basic Commands__
 ---
 
 
-## Class 03  *Dec 14 2020:*
+## Class 03  *Dec 14 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2003)
 
 * __GIT__
 
@@ -44,7 +44,7 @@ __5. Ubuntu Basic Commands__
 
 ---
 
-## Class 04  *Dec 14 2020:*
+## Class 04  *Dec 14 2020:*  [view](https://anassawalha95.github.io/reading-notes/Class%2004)
 
 __1. What is Html?__
 
@@ -56,7 +56,7 @@ __3. First Project On HTML__
 ---
 
 
-## Class 05  *Dec 15 2020:*
+## Class 05  *Dec 15 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2005)
 
 __1. Introducing CSS__
 
@@ -69,6 +69,7 @@ __3. Rules, properties, and values__
 ---
 
 
+## Class 06  *Dec 15 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2006)
 
 
 

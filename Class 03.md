@@ -1,6 +1,6 @@
-# Class 03 *Dec 13 2020:*
+> # Class 03 *Dec 13 2020:*
 
-> # topics
+> ## topics
 
 * __GIT__
    1. What is GIT?

@@ -72,32 +72,20 @@ var total = billl + bill2;` the result would be 1015
 HTML:
 
 `<hl>Elderflower</ hl>
-
 <div id="content">
-
 <div id="greeting" class="message">Hello
-
 <span id="name">friend</span>!
-
 </div>
-
 </div>
-
 <script src="js/string-operator.js"></script>`
 
 
 JS:
 
 `var greeting= 'Howdy ';
-
 var name= 'Molly' ;
-
-c02/js/string-opera tor.js
-
 var welcomeMessage = greeting+ name+ '!';
-
 var el = document.getElementByld('greeting');
-
 el .textContent = welcomeMessage;`
 
 

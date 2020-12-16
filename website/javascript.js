@@ -83,7 +83,7 @@ function submissionHandler() {
 
 
     if (instertedProductPrice >= 1) {
-        p1.innerHTML = instertedProductPrice
+        p1.innerHTML = "$" + instertedProductPrice
 
     } else {
 
@@ -145,7 +145,8 @@ function submissionHandler() {
         alert("You Added " + counter + " Item/s")
 
 
-
+    var rate = prompt("Please Rate it From 1-5")
+    alert("Thank You")
 
 }
 

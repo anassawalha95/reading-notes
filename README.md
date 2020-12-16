@@ -102,5 +102,24 @@ __2. How Computer Works__
 
 ---
 
+---
+
+## Class 06 *Dec 16 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2007)
+
+
+__1. Intoduction to Javascript Language__
+
+__2. Expressions__
+
+__3. Functions__
+
+---
+
+
+
+
+
+
+
 
 

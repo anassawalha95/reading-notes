@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>class 5 </title>
     <link rel="stylesheet" href="./style.css">
-    <script src="/javascript.js"></script>
+    <script src="javascript.js"></script>
 </head>
 
 <body>
@@ -47,7 +47,7 @@
                 apiary
                 or "bee yard".
             </article>
-            <div class="cards-contanier">
+            <div class="cards-contanier" id="cards-contanier">
 
                 <h2 class="heading">Our products</h2>
                 <section class="card">
@@ -265,16 +265,46 @@
             </div>
 
             <section class="input">
-                <button onclick="changeBackgroundColor()">Click To Change Background Color</button>
+
 
                 <form action="" method="get">
+
+
                     <label for="fname">First name:</label>
                     <input type="text" id="first-name" name="first-name"><br><br>
                     <label for="lname">Last name:</label>
                     <input type="text" id="last-name" name="last-name"><br><br>
-                    <input id="submit"
-                        onclick="alert('Thank You '+ document.getElementById('first-name').value +document.getElementById('last-name').value)"
-                        type="submit" value="Submit">
+
+
+                    <button class="toggle" type="button" onclick="addProduct()">Click To Add Product</button>
+                    <br><br>
+                    <div class="hidden">
+                        <label for="product-name"> Product Name</label>
+                        <input type="text" id="product-name" name="product-name"><br><br>
+
+                        <label for="product-price">Product Price</label>
+                        <input type="text" id="product-price" name="product-price"><br><br>
+
+                        <label for="product-img">Product Image</label>
+                        <input type="text" name="product-img" id="product-img"><br><br>
+
+                        <label for="product-description">Product Description</label><br><br>
+                        <textarea name="product-description" id="product-description"
+                            placeholder="Write Product Description" rows="5" cols="35"></textarea><br><br>
+
+
+                        <label for="product-repeat"> How Many Times would you like to repeat your product
+                            ?</label><br><br>
+                        <input type="text" name="product-repeat" id="product-repeat"><br><br>
+
+
+                    </div>
+
+                    <input class="toggle btn-warning" type="button" onclick="changeBackgroundColor()"
+                        value="Click To Change Background Color">
+
+                    <br><br>
+                    <input id="submit" onclick="submissionHandler()" type="button" value="Submit">
                 </form>
             </section>
         </main>

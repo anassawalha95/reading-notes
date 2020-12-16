@@ -188,43 +188,60 @@ text-align: center;
      margin-top: 20px;
      color: white;
  }
-
- .input > button , #submit  {
+ 
+ .input form > button , #submit , .toggle  {
      background-color: rgb(22, 114, 253);
-     padding: 25px;
+ 
      border: none;
      border-radius: 5px;
      color: white;
      margin-bottom: 15px;
-     width: 200px;
-     height: 100px;
-     background: red;
-     transition: width 1s;
+     width: 250px;
+     height: 35px;
+     background: rgb(29, 111, 235);
+     transition: width  1s;
+     transition: height  1s;
      
  }
 
  .input  button:hover , #submit:hover {
     width: 300px;
-    background-color: red;
+    height: 60px;
+   
     color: white;
     
 
 }
 
-input[type=text]{
+input[type=text] {
     width: 150px;
-     height: 33px;
+     height: 20px;
      transition: width 1s;
+     transition: height  1s;
      border: none;
      border-radius: 3px;
+     outline: none;
 }
 
 input[type=text]:hover{
     width: 200px;
+    height:35px;
+
+}
+
+input[type=text]:focus{
+
+border: solid #26baff 2px;
 }
 
 
 
 
 
- 
+.hidden{
+    display: none;
+}
+
+.btn-warning{
+    background-color: #dde02f;
+}

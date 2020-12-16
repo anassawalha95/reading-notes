@@ -13,8 +13,10 @@ __2. **Loops**__
 
 > ## 1. Comparison and logical operators:
 
-> ## 2. Loops
+![logical](https://2.bp.blogspot.com/-KDvVoHgfYUo/Vf7lOBdtNrI/AAAAAAAAAPc/mGXzOui7gMk/s280/operator%2Bdalam%2Bjava.jpg)
+
 > #### Comparison operators
+
   * **You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean: true or false**
   
    * **Types of Comparison operators:**
@@ -45,6 +47,9 @@ Example:
   
 > ####  logical operators:   
 
+
+
+
  * **Logical operators allow you to compare the results of more than one comparison operator.**
   
  * **Types logical operators:**
@@ -73,6 +78,9 @@ Example:
       
 > ## 2. Loops: 
 
+
+![loops](https://inspiredani.files.wordpress.com/2010/06/the-loop_logo.jpg)
+
   * **Loops:** check a condition. If it returns **true**, a code block will run Then the condition will be checked again and if it still returns **true** the code block will run again. It repeats until the condition returns **false** 
   
   * **Types of Loops:**
@@ -83,7 +91,59 @@ Example:
 | while    |
 | Do While |
 
-![l]
 
+##### For Loop:
+
+![Loop1](https://www.kirupa.com/html5/images/step.png)
+
+**Example:**
+   `var scores= [24. 32, 17]; //Array of scores
+   var arraylength scores.l ength; // Items in array
+   var roundNumber = O; //Current round
+   var msg ''; //Message
+   var i ; // Counter
+   //Loop through the items in the array
+   for (i = O; i < arraylength; i++) {
+   //Arrays are zero based (so 0 is round 1)
+   //Add 1 to the current round
+   roundNumber = (i + l);
+   // Write the current round to message
+   msg += 'Round ' + roundNumber + ' : ';
+   //Get the score from the scores array
+   msg += scores[i] + '<br / >' ;
+   document .getElementByid( 'answer') .i nnerHTML msg; `
+
+
+##### while Loop:
+
+![Loop2](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-While-Loop-Example.jpeg)
+
+
+   `var i = l ;
+    var msg = ' ' ;
+    II Set counter to 1
+    II Message
+    II Store 5 times tabl e in a variable
+    while (i < 10) {
+    msg += i + ' x 5 = ' + (i * 5) + '<br I>';
+    i++;
+    document .getEl ementByid( ' answer') . innerHTML = msg; `
+
+##### Do While Loop:
+
+![Loop3](https://www.tutsmake.com/wp-content/uploads/2020/05/JavaScript-Do-While-Loop-Example.jpeg)
+
+  `var i = l;
+   var msg : I I •
+   •
+   II Set counter to 1
+   II Message
+   II Store 5 times table in a variable
+   do {
+   msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;s
+   i++;
+   } wh il e ( i < 1) ;
+   II Note how this is already 1 and it still runs
+   document .getEl ementByld(' answer').innerHTML = msg; `
 
       

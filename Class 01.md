@@ -1,6 +1,8 @@
 
-# Class 01 *Dec 13 2020:*
-> # topics
+> # Class 01 *Dec 13 2020:*
+
+> ## topics
+
 1. Accounts Set up Slack, GitHub, and Canvas
 
 2. The Growth Mindset concept

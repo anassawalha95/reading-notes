@@ -1,6 +1,6 @@
-## Class 07  *Dec 16 2020:*
+> # Class 07  *Dec 16 2020:*
 
-> # topics
+> ## topics
 
 __1. Intoduction to Javascript Language__
 

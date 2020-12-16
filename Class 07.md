@@ -92,5 +92,27 @@ el .textContent = welcomeMessage;`
 
 
  
- 
- 
+> ## __3. Functions__
+
+* **Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).**
+
+** Declaring Functions and Calling it**
+
+![ Declaring Functions](https://dhananjay25.files.wordpress.com/2017/09/image6.png)
+
+
+** Declaring Functions with Arguments 
+
+![ Declaring Functions with Arguments ](https://miro.medium.com/max/2394/1*AAOGzeTzt0-TBksxkiSyPA.jpeg)
+
+
+
+** Example:**
+
+
+`Function displayName(username){
+
+alert('Welcome' + username );
+
+}`
+

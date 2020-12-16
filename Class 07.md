@@ -64,29 +64,40 @@ D. React to events triggered by the user or browser
 var bill2 = '15 ' ;
 var total = billl + bill2;` the result would be 1015
 
-** If you use other mathematical operators you will get `NaN` which is stand for Not A Number 
+** If you use other mathematical operators you will get `NaN` which is stand for Not A Number** 
 
 
-####Try copy & past this example to your text editor  
+#### Try copy & past this example to your text editor  
 
 HTML:
 
 `<hl>Elderflower</ hl>
+
 <div id="content">
+
 <div id="greeting" class="message">Hello
+
 <span id="name">friend</span>!
+
 </div>
+
 </div>
+
 <script src="js/string-operator.js"></script>`
 
 
 JS:
 
 `var greeting= 'Howdy ';
-var name= 'Mol ly' ;
+
+var name= 'Molly' ;
+
 c02/js/string-opera tor.js
+
 var welcomeMessage = greeting+ name+ '!';
+
 var el = document.getElementByld('greeting');
+
 el .textContent = welcomeMessage;`
 
 

@@ -1,5 +1,6 @@
 
-## Class 04  *Dec 14 2020:*
+> # Class 04  *Dec 14 2020:*
+
 > # topics
 
 __1. What is Html and Usage?__
@@ -9,8 +10,10 @@ __2. HTML & CSS Process and Design__
 __3. First Project On HTML__
 
 
------
+---
+
 > ## 1. Html and Usage:
+
 ### ***HTML Stands For:*** Hyper Text Markup Language its used for structuring the website layout after drawing a wirefrime
 
 ---

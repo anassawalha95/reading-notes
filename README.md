@@ -1,7 +1,7 @@
 > # All Classes Topics Covered 
 
 
-> # Table of Content 
+> ## Table of Content 
 
 ## Class 01  *Dec 13 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2001)
 

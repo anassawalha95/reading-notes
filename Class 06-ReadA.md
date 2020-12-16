@@ -1,6 +1,6 @@
-## Class 06 Lab A  *Dec 15 2020:*
+> # Class 06 Lab A  *Dec 15 2020:*
 
-> # topics
+> ## topics
 
 __1. What is Javescript__
 

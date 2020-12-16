@@ -1,11 +1,15 @@
 
-> ## Class 05  *Dec 15 2020:*
+> # Class 05  *Dec 15 2020:*
+
+> ## Topics
 
 __1. Introducing CSS__
 
 __2. How CSS works__
 
 __3. Colors__
+
+---
 
 > ## 1. Introducing CSS:
 

@@ -47,19 +47,25 @@ __This will also be bold__
 _You **can** combine them_
 
 ## Lists
+
 ### Unordered
+
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
+  
 ### Ordered
+
 1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
    1. Item 3b
+   
 ### Images
-![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
+
+![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
 
 ### Links
 http://W3schools.com - automatic!

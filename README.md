@@ -1,4 +1,4 @@
-> # All Classes Heading and Topics Covered 
+> # All Classes Topics Covered 
 
 
 > # Table of Content 
@@ -116,6 +116,25 @@ __3. Functions__
 ---
 
 
+## Class 07  *Dec 16 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2007)
+
+__1. Intoduction to Javascript Language__
+
+__2. Expressions & Operators__
+
+__3. Functions__
+
+---
+
+
+## Class 08  *Dec 16 2020:* [view](https://anassawalha95.github.io/reading-notes/Class%2008)
+
+__1. Comparison and logical operators__
+
+__2. Loops__
+
+
+---
 
 
 

@@ -1,7 +1,7 @@
 
 > # Class 08  *Dec 16 2020:*
 
-> ## topics
+> ## Topics
 
 __1. **Comparison and logical operators**__
 

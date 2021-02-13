@@ -5,7 +5,7 @@
 ## Table of Content 
 
 
-## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2001)
+## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2001)
 
 * **101 & 102 Review:** 
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Class 02  *Jan 04 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2002)
+## Class 02  *Jan 04 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2002)
 
 
    1. Text
@@ -36,7 +36,7 @@
 
 
 
-## Class 03  *Jan 05 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2003)
+## Class 03  *Jan 05 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2003)
 
    1. Lists 
  
@@ -48,7 +48,7 @@
    
 ---
 
-## Class 04  *Jan 06 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2004)
+## Class 04  *Jan 06 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2004)
 
    1. Links 
  
@@ -61,7 +61,7 @@
 ---
 
 
-## Class 05  *Jan 07 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2005)
+## Class 05  *Jan 07 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2005)
 
    1. Images 
  
@@ -72,7 +72,7 @@
 
 ---
 
-## Class 06  *Jan 10 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2006)
+## Class 06  *Jan 10 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2006)
 
    1. Object Literals
     
@@ -80,7 +80,7 @@
    
 ---
 
-## Class 07  *Jan 11 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2007)
+## Class 07  *Jan 11 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2007)
 
    1. Domain Modeling [Referance](https://github.com/codefellows/domain_modeling#domain-modeling)
     
@@ -91,13 +91,13 @@
 ---
 
 
-## Class 08  *Jan 12 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2008)
+## Class 08  *Jan 12 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2008)
     
    * Layout
    
 ---
 
-> # Class 09 *Jan 13 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2009)
+> # Class 09 *Jan 13 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2009)
 
 
    1. Forms
@@ -110,14 +110,14 @@
 ---
    
 
-> # Class 10 *Jan 14 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2010)
+> # Class 10 *Jan 14 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2010)
 
   * Error Handling & Debugging
    
 ---
 
 
-> # Class 11 *Jan 17 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2011)
+> # Class 11 *Jan 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2011)
 
   1. Images
   
@@ -127,7 +127,7 @@
 
 ---
 
-> # Class 12 *Jan 18 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2012)
+> # Class 12 *Jan 18 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2012)
 
   1. Chart.js [Referance](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/) [Documention](https://www.chartjs.org/docs/latest/)
   
@@ -135,13 +135,13 @@
   
 ---
    
-> # Class 13 *Jan 19 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2013)
+> # Class 13 *Jan 19 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2013)
 
   1. Local Storage [Referance](http://diveinto.html5doctor.com/storage.html)
   
 ---
 
-> # Class 14a *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2014a)
+> # Class 14a *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2014a)
 
    1. Build the Perfect Team 
 
@@ -152,7 +152,7 @@
   
 ---
 
-> # Class 14b *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes-2/Class%2014b)
+> # Class 14b *Jan 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20102/Class%2014b)
 
   1.  Build the Perfect Team 
   

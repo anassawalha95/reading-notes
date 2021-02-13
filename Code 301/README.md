@@ -5,7 +5,7 @@
 ## Table of Content 
 
 
-## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
+## Class 01  *FEB 14 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
 
    1. Responsive Web Design [view](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
     

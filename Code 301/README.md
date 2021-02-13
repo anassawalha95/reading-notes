@@ -1,10 +1,16 @@
+## Anas Sawalha
 
-# Reading Notes
+# Code 301 Reading Notes
 
-## Code 102 - Intro to Software Development
+## Table of Content 
 
-## Code 201 - Foundations of Software Development
 
-## Code 301 - Intermediate Software Development
+## Class 01  *Jan 03 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
 
-## Code 401 - Advanced Software Development
+   1. Responsive Web Design [view](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+    
+   2. All About Floats [view](https://css-tricks.com/all-about-floats/) 
+    
+   3. Don’t Overthink It Grids [view](https://css-tricks.com/dont-overthink-it-grids/)
+
+---

@@ -12,5 +12,7 @@
    2. All About Floats [view](https://css-tricks.com/all-about-floats/) 
     
    3. Don’t Overthink It Grids [view](https://css-tricks.com/dont-overthink-it-grids/)
+   
+   4. SMACSS Book [SMACSS](http://smacss.com/)
 
 ---

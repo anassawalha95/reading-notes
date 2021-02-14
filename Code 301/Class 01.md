@@ -42,9 +42,9 @@ Responsive web design is broken down into three main components:
 
 ---
 
-![Float](https://static.onecms.io/wp-content/uploads/sites/9/2017/06/kfc-float-ss0518-2000.jpg)
-
 > ## 2.  All About Floats
+
+![Float](https://static.onecms.io/wp-content/uploads/sites/9/2017/06/kfc-float-ss0518-2000.jpg)
 
 **Float:** is a CSS positioning property. To understand its purpose and origin, we can look to print design. In a print layout, images may be set into the page such that text wraps around them as needed
 

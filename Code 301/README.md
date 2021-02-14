@@ -16,3 +16,12 @@
    4. SMACSS Book [SMACSS](http://smacss.com/)
 
 ---
+
+## Class 02  *FEB 15 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
+
+   1. JavaScript and jQuery 
+    
+   2. 6 Reasons for Pair Programming [view](https://www.codefellows.org/blog/6-reasons-for-pair-programming/) 
+   
+---
+

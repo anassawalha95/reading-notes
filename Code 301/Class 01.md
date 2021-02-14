@@ -40,13 +40,20 @@ Responsive web design is broken down into three main components:
   
   3. media queries: used for mobile built
 
+
+
+
 ---
+
+
 
 > ## 2.  All About Floats
 
 ![Float](https://static.onecms.io/wp-content/uploads/sites/9/2017/06/kfc-float-ss0518-2000.jpg)
 
 **Float:** is a CSS positioning property. To understand its purpose and origin, we can look to print design. In a print layout, images may be set into the page such that text wraps around them as needed
+
+
 
 ---
 
@@ -55,9 +62,11 @@ Responsive web design is broken down into three main components:
 
 ---
 
-![SMACSS](https://www.zaraffasoft.com/wp-content/uploads/2016/09/smacss-way.png)
+
 
 > ## 4. SMACSS Book
+
+![SMACSS](https://www.zaraffasoft.com/wp-content/uploads/2016/09/smacss-way.png)
 
 #### What is SMACSS?
 

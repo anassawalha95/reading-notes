@@ -62,3 +62,8 @@ Responsive web design is broken down into three main components:
 #### What is SMACSS?
 
 **SMACSS** (pronounced “smacks”) is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS. 
+
+---
+
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20301)

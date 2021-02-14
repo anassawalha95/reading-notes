@@ -66,4 +66,5 @@ Responsive web design is broken down into three main components:
 ---
 
 GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
+
 GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20301)

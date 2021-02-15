@@ -25,3 +25,16 @@
    
 ---
 
+
+## Class 03  *FEB 16 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2003)
+
+ 
+  1. Templating with Mustache [view](https://1sherlynn.medium.com/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+    
+  2. A Guide to Flexbox [view](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+   
+   
+---
+
+
+

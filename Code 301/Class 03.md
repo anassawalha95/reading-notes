@@ -16,7 +16,7 @@
 
 ![Mustache](https://lh3.googleusercontent.com/proxy/8a9Bzr9FRwOIrv3849wJO2p-mBZ2co9-F5MHDbluyPnzVOaaQFmUNVlenhthZjrtEatImfM4qq3lOaTZwSBJOYoHSxXTpSM)
 
-**Mustache** is a logic-less template syntax. It can be used for HTML, config files, source code — anything
+#### **Mustache** is a logic-less template syntax. It can be used for HTML, config files, source code — anything
 
 **Example:**
         

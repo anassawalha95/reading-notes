@@ -51,3 +51,22 @@
 ---
   
 > ## 2.  6 Reasons for Pair Programming 
+
+  1. Greater efficiency
+  
+  2. Engaged collaboration
+  
+  3. Learning from fellow students
+  
+  4. Social skills
+  
+  5. Job interview readiness
+  
+  6. Work environment readiness
+
+  ---
+  
+  
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
+
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20301)

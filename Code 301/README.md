@@ -37,4 +37,24 @@
 ---
 
 
+## Class 04  *FEB 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2004)
+
+ 
+  1. RegExr [view](https://regexr.com/)
+    
+  2. Regex Tutorial [view](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285) 
+
+  3. Regex 101 [view](https://regex101.com/) 
+  
+  4. CSS Grid Reference [view](https://css-tricks.com/snippets/css/complete-guide-grid/) 
+   
+  5. Responsive design with CSS Grid [view](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df) 
+
+
+   
+   
+---
+
+
+
 

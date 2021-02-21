@@ -63,3 +63,13 @@
 
 ---
 
+## Class 07  *FEB 22 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2007)
+
+  1. Build the Perfect Team [Referance](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
+  
+  2. SuperAgent [Documentation](https://visionmedia.github.io/superagent/)
+  
+  3. API Keys
+  
+
+---

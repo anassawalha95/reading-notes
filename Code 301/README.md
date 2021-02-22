@@ -73,3 +73,13 @@
   
 
 ---
+
+## Class 08  *FEB 23 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2008)
+
+> ## Topics
+
+  1. SQl
+  
+  2. Referances
+  
+

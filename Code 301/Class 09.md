@@ -16,3 +16,11 @@
 ---
 
  > ## 2. Refactoring Javascript for Readability
+
+
+
+---
+
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2009)
+
+GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20301)

@@ -80,4 +80,12 @@
   
   2. Referances
   
+---
+
+## Class 09  *FEB 24 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2009)
+
+  1. Functional Programming Concepts 
+  
+  2. Refactoring Javascript for Readability
+  
 

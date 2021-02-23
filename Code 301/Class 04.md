@@ -1,6 +1,5 @@
 
-## Class 04  *FEB 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2004)
-
+## Class 04  *FEB 17 2021:* 
  > ## Topics
  
 

@@ -26,11 +26,26 @@
 ---
 
 > ## 2. Understanding the JavaScript Call Stack 
+
+The call stack is primarily used for function invocation (call). Since the call stack is single, function(s) execution, is done, one at a time, from top to bottom. It means the call stack is synchronous.
+
+At the most basic level, a call stack is a data structure that uses the Last In, First Out (LIFO) principle to temporarily store and manage function invocation (call).
  
+
+![LIFO](https://www.mbaskool.com/2020_images/stories/dec_images/lifo.jpg)
 
 ---
 
-> ## 3. Understanding the JavaScript Call Stack 
+> ## 3. JavaScript error messages
+
+####  Types of error messages
+
+1. Reference errors
+2. Syntax errors
+3. Range errors
+4. Type errors
+5. Debugging
+6. Call stack
  
 ---
 

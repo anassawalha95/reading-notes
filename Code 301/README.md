@@ -88,4 +88,18 @@
   
   2. Refactoring Javascript for Readability
   
+  
+---
+
+## Class 10  *FEB 25 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2010)
+
+  1. The Call Stack defined on MDN [View](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+  
+  2. Understanding the JavaScript Call Stack [View](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+
+  3. JavaScript error messages [view](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+
+  4. Additional Resources
+
+---
 

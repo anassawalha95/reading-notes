@@ -11,6 +11,14 @@
 
 ![EJS](https://www.veracode.com/sites/default/files/styles/blog_post_resize_960/public/blog-secure-dev-context-matters-nodejs-templates.jpg?itok=BtIs8vrV)
 
+ **EJS Partials** help us avoid repetition of the same code on several web pages.
+ 
+ `<%- include('partials/partial') %>`
+
+
+#### Example 
+
+![example](https://res.cloudinary.com/practicaldev/image/fetch/s--NcyF1ajR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/gk1bxrwovuxzc5gnu6g7.png)
 
 ---
 

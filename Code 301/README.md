@@ -105,6 +105,12 @@
 
 ## Class 11  *FEB 28 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2011)
 
-    1. EJS
+  1. EJS
 
 ---
+
+
+## Class 12  *MAR 01 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2012)
+
+  1. EJS Partials [view](https://medium.com/@henslejoseph/ejs-partials-f6f102cb7433)
+

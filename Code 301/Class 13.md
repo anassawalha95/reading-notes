@@ -1,4 +1,4 @@
-## Class 13  *MAR 02 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2013)
+## Class 13  *MAR 02 2021:*
 
 > ## Topics
 

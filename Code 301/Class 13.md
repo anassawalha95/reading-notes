@@ -9,6 +9,24 @@
 
 > ## 1. Sending Form Data
 
+![Sending Form Data](https://www.guru99.com/images/2013/04/php_forms.png)
+
+**Example:**
+
+      <form action="http://www.foo.com" method="GET">
+      <div>
+        <label for="say">What greeting do you want to say?</label>
+        <input name="say" id="say" value="Hi">
+      </div>
+      <div>
+        <label for="to">Who do you want to say it to?</label>
+        <input name="to" id="to" value="Mom">
+      </div>
+      <div>
+        <button>Send my greetings</button>
+      </div>
+    </form>
+
 
 ---
 

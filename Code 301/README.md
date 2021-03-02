@@ -120,3 +120,12 @@
 
   1. Sending Form Data [view](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
 
+
+---
+
+## Class 14a  *MAR 03 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2014a)
+
+  1. Database Normalization  [view](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+
+

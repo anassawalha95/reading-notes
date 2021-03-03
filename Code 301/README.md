@@ -128,4 +128,14 @@
   1. Database Normalization  [view](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 
+---
+
+## Class 15  *MAR 04 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2015)
+
+
+  1. That Time When Women Stopped Coding [view](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding)
+
+  2. Employee breakdown of key technology companies [view](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+
+  3. Why diversity matters to your tech company [view](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 

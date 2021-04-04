@@ -17,3 +17,14 @@
    4. Reading Java Documentation [view](https://www.dummies.com/programming/java/making-sense-of-javas-api-documentation/)
 
 ---
+
+## Class 01  *Apirl 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
+
+
+
+   1. Java Imports [view](https://perso.ensta-paris.fr/~diam/java/online/notes-java/language/10basics/import.html)
+    
+   2. Different types of loops in Java [view](https://www.baeldung.com/java-loops) 
+    
+
+---

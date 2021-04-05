@@ -18,7 +18,7 @@
 
 ---
 
-## Class 01  *Apirl 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
+## Class 02  *Apirl 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
 
 
 
@@ -26,5 +26,20 @@
     
    2. Different types of loops in Java [view](https://www.baeldung.com/java-loops) 
     
+
+---
+
+## Class 03  *Apirl 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2003)
+
+
+
+   1. Primitives vs. Objects [view](https://www.baeldung.com/java-primitives-vs-objects)
+    
+   2. Different types of loops in Java [view](https://www.baeldung.com/java-loops) 
+
+   3. Exceptions in Java [view](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html) 
+
+   4. Using Scanner to read in a file in Java [view](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html) 
+
 
 ---

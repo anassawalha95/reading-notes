@@ -34,12 +34,10 @@
 
 
    1. Primitives vs. Objects [view](https://www.baeldung.com/java-primitives-vs-objects)
-    
-   2. Different types of loops in Java [view](https://www.baeldung.com/java-loops) 
+   
+   2. Exceptions in Java [view](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html) 
 
-   3. Exceptions in Java [view](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html) 
-
-   4. Using Scanner to read in a file in Java [view](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html) 
+   3. Using Scanner to read in a file in Java [view](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html) 
 
 
 ---

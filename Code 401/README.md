@@ -41,3 +41,14 @@
 
 
 ---
+
+## Class 04  *Apirl7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2004)
+
+
+
+   1. Java OO Tutorial  [view](https://docs.oracle.com/javase/tutorial/java/concepts/)
+   
+   2. Binary, Decimal and Hexadecimal Numbers [view](https://www.mathsisfun.com/binary-decimal-hexadecimal.html)  
+
+
+---

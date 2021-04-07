@@ -52,3 +52,13 @@
 
 
 ---
+
+## Class 05  *Apirl 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2005)
+
+
+   1.  Linked Lists  [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
+ 
+   2.  What’s a Linked List, Anyway pt1  [view](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+
+   3.  What’s a Linked List, Anyway pt2  [view](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+   

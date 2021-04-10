@@ -21,18 +21,22 @@
 
 1. **Variables**
 
-   You've already learned that objects store their state in fields. However, the Java programming language also uses the term "variable" as well. This section discusses this relationship, plus variable naming rules and conventions, basic data types (primitive types, character strings, and arrays), default values, and literals.
+  Java Variables is a container where it holds different type of data such as boolean true/false, strings, and objects.
 
-**The Java programming language defines the following kinds of variables:**
+** Java kinds of variables:**
 
-   1. Instance Variables (Non-Static Fields)
-   2. Class Variables (Static Fields)
-   3. Local Variables
-   4. Parameters 
-   5. 
+   1. byte 
+   2. short 
+   3. int 
+   4. long 
+   5. float 
+   6. double 
+   7. char 
+   8. boolean
+   
 2. **Operators**
 
-   This section describes the operators of the Java programming language. It presents the most commonly-used operators first, and the less commonly-used operators last. Each discussion includes code samples that you can compile and run.
+  Operators in Java are symbols used to special operations like in javascript. The symbols used in java are +,-,>>,<<,<,>,~,%,&&,?,:,and ! all of these symbols are used alone or in combinations. the table below indicaties them with their combinations [the sourse](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html) 
   
 |       Operators      |                Precedence               |
 |:--------------------:|:---------------------------------------:|
@@ -53,25 +57,34 @@
 
 3. **Expressions, Statements, and Blocks**
 
-Operators may be used in building expressions, which compute values; expressions are the core components of statements; statements may be grouped into blocks. This section discusses expressions, statements, and blocks using example code that you've already seen.
+**Expressions:** is consists of variables, operators, literals, and method calls, such as `int age=10;`
+
+**Statements:** is a one line of code that used to specifiy an action. for example `x=y+10;`
+
+**Blocks:** a block or a code block is a set of statments of code that used to execute once its called or in an if statement or in a while loop , etc.
+
+   For Example: 
+   
+         `if (x==1) { // begin block 
+               System.out.println("x is 1.");
+          } // end block 
+          `
 
 
 
 4. **Control Flow Statements**
 
-This section describes the control flow statements supported by the Java programming language. It covers the decisions-making, looping, and branching statements that enable your programs to conditionally execute particular blocks of code.
-
-The statements inside your source files are generally executed from top to bottom, in the order that they appear. Control flow statements, however, break up the flow of execution by employing decision making, looping, and branching, enabling your program to conditionally execute particular blocks of code. This section describes the decision-making statements (if-then, if-then-else, switch), the looping statements (for, while, do-while), and the branching statements (break, continue, return) supported by the Java programming language.
+Control flow statements are a set of reserved keywords that used to create for, while, do-while, break, continue, return, if-then, if-then-else, and switch for decision making, looping statements and branching statements 
 
 ---
 
 > ## 2.  Code Compiling
 
-everything in a computer is represented by a series of 1's and 0's (which themselves represent high and low voltages on transistors, but that's a topic for another time). When the computer runs a program, the program itself is made of a bunch of 1's and 0's.
+Code compiling is the transformation from the human readable code into machine languges which is 0's and 1's. Where the compiler it self is a program that runs the higher level code and checks if written correctly before appling it for the computers so it can understand it.
 
-However, since we still need humans to write our programs, putting everything in 1's and 0's (called machine language) would be very difficult. So we made higher level languages like Java and C# to write code in. These languages look a lot more like English, so they're a lot easier to write and maintain.
+**Note:** Javascript uses interpreter where it will execute the code line by line then where there an error it will halt the program but the compiler check all the code before it execute it 
 
-When you compile code, the compilor (usually another program) takes the program the human wrote, and converts it into the program the computer can understand (i.e. converts from Java to machine language). The very short version could be, yes, compile means to make the code executable.
+
 
 ---
 

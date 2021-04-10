@@ -34,6 +34,7 @@
    7. char 
    8. boolean
    
+   
 2. **Operators**
 
   Operators in Java are symbols used to special operations like in javascript. The symbols used in java are +,-,>>,<<,<,>,~,%,&&,?,:,and ! all of these symbols are used alone or in combinations. the table below indicaties them with their combinations [the sourse](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html) 

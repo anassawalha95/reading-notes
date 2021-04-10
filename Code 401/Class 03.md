@@ -13,16 +13,18 @@
 
 > ## 1. Primitives vs. Objects
 
-**Java has two types:**
+primitive data type are the basic types in java. while objects data types are references to an object instead. Note that in Java you must define the variable type while in javascript you won't hava the interpreter will know the type on initialization with a value and if you try to print the variable it will print undefind 
 
-  1. primitive types: consumes less memorya and the default values is 0
+**Java has two types:** [source](https://www.baeldung.com/java-primitives-vs-objects)
+
+  1. primitive types: consumes less memory and the default values is 0
         boolean – 1 bit
         byte – 8 bits
         short, char – 16 bits
         int, float – 32 bits
         long, double – 64 bits
         
-  2. object types (wrapper types): cconsumes more memory and  the default values is null 
+  2. object types (wrapper types): consumes more memory and  the default values is null 
         
         Boolean – 128 bits
         Byte – 128 bits
@@ -44,12 +46,12 @@
 
 > ## 2. Exceptions in Java
   
- **An exception** is an event that occurs during the execution of a program that disrupts the normal flow of instructions.
+ **An exception** is a problem happens while during the running time that will disrupt the normal program execution which lead to program halt.
  
   **The Three Kinds of Exceptions**
-   1. the checked exception: These are exceptional conditions that a well-written application should anticipate and recover from.
-   2. the error exception: These are exceptional conditions that are external to the application, and that the application usually cannot anticipate or recover from
-   3. the runtime exception: These are exceptional conditions that are internal to the application, and that the application usually cannot anticipate or recover from.
+   1. "The checked exception": that have a block of code where it handles the exception when once occurs and the program can deal with it. 
+   2. "The runtime exception": happens on runtime execution where the program has a logical error 
+   3. "The error ": these are not an exception it out of the user or the program hands such as out of memory error.
 
 **Throw an exception**
 
@@ -63,12 +65,12 @@ Example:
    }  
    public static void main(String args[]){  
       validate(13);  
-      System.out.println("rest of the code...");  
+     
   }  
 }  `
 
 
-**try with resourse statment exceotion**
+**try with resourse statment exception**
 
 Example:
 
@@ -90,12 +92,6 @@ example:
     int denominator = 0;
     int result = numerator / denominator;
 }`
-
-**Advantage of exceptions**
-
-1. Separating Error-Handling Code from "Regular" Code
-2. Propagating Errors Up the Call Stack
-3. Grouping and Differentiating Error Types
 
 
 

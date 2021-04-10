@@ -19,7 +19,7 @@
 
 **Language Basics**
 
-1. **Variables**
+#### 1. **Variables**
 
   Java Variables is a container where it holds different type of data such as boolean true/false, strings, and objects.
 
@@ -35,7 +35,8 @@
    8. boolean
    
    
-2. **Operators**
+
+#### 2. **Operators**
 
   Operators in Java are symbols used to special operations like in javascript. The symbols used in java are +,-,>>,<<,<,>,~,%,&&,?,:,and ! all of these symbols are used alone or in combinations. the table below indicaties them with their combinations [the sourse](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html) 
   
@@ -56,7 +57,8 @@
 | ternary              | ? :                                     |
 | assignment           | = += -= *= /= %= &= ^= \|= <<= >>= >>>= |
 
-3. **Expressions, Statements, and Blocks**
+
+#### 3. **Expressions, Statements, and Blocks**
 
 **Expressions:** is consists of variables, operators, literals, and method calls, such as `int age=10;`
 
@@ -73,7 +75,8 @@
 
 
 
-4. **Control Flow Statements**
+
+#### 4. **Control Flow Statements**
 
 Control flow statements are a set of reserved keywords that used to create for, while, do-while, break, continue, return, if-then, if-then-else, and switch for decision making, looping statements and branching statements 
 

@@ -62,3 +62,11 @@
 
    3.  What’s a Linked List, Anyway pt2  [view](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
    
+---
+
+## Class 06  *Apirl 11 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2006)
+
+   1. Java OO Tutorial  [view](https://docs.oracle.com/javase/tutorial/java/concepts/)
+   
+   2. Java Inheritance & Interfaces Tutorial [view](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)  
+---

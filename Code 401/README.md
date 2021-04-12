@@ -70,3 +70,11 @@
    
    2. Java Inheritance & Interfaces Tutorial [view](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)  
 ---
+
+## Class 08  *Apirl 13 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2008)
+
+   1. SOLID principles intro [view](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+   
+   2. OO SOLID principles in real life [view](https://dzone.com/articles/the-solid-principles-in-real-life)  
+---
+

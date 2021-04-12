@@ -20,11 +20,17 @@
 
 
 **videos to watch about each principle:**
+
 [Single-responsiblity Principle](https://www.youtube.com/watch?v=AEnePs2Evg0&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm)
+
 [Open-closed Principle](https://www.youtube.com/watch?v=DJF_sGOs2V4)
+
 [Liskov Substitution Principle](https://www.youtube.com/watch?v=ObHQHszbIcE)
+
 [Interface Segregation Principle](https://www.youtube.com/watch?v=xahwVmf8itI&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm&index=4)
+
 [Dependency Inversion Principle](https://www.youtube.com/watch?v=S9awxA1wNNY&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm&index=2)
+
 ---
 
 GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2008)

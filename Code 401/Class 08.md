@@ -19,6 +19,12 @@
   5. D - Dependency Inversion Principle: in this principle we always think about each class if its a low level or a high level like sql connection and passowrd verification where both of them are dependent because if we have a cross between both of them we well end up changing the password verification each time we change the sql engin so every time we change the sql engin it wont affect the password verification.
 
 
+**videos to watch about each principle:**
+[Single-responsiblity Principle](https://www.youtube.com/watch?v=AEnePs2Evg0&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm)
+[Open-closed Principle](https://www.youtube.com/watch?v=DJF_sGOs2V4)
+[Liskov Substitution Principle](https://www.youtube.com/watch?v=ObHQHszbIcE)
+[Interface Segregation Principle](https://www.youtube.com/watch?v=xahwVmf8itI&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm&index=4)
+[Dependency Inversion Principle](https://www.youtube.com/watch?v=S9awxA1wNNY&list=PLrhzvIcii6GMQceffIgKCRK98yTm0oolm&index=2)
 ---
 
 GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2008)

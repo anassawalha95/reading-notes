@@ -75,6 +75,15 @@
 
    1. SOLID principles intro [view](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
    
-   2. OO SOLID principles in real life [view](https://dzone.com/articles/the-solid-principles-in-real-life)  
+   2. OO SOLID principles in real life [view](https://dzone.com/articles/the-solid-principles-in-real-life) 
+    
 ---
 
+## Class 09  *Apirl 14 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2009)
+
+
+   1. Review: High-level HTTP [view](https://dev.to/dangolant/things-i-brushed-up-on-this-week-the-http-request-lifecycle-)
+   
+   2. Java HTTP Request example [view](https://www.baeldung.com/java-http-request)  
+   
+---

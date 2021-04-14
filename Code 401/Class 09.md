@@ -27,7 +27,7 @@
   5. **Tearing Down and Cleaning Up** After the both servers is done talking now the tcp will terminate the connection and send a final masseage close the channle and caches informations about the other server.
 
     
-![The Life-Cycle of Http Request](https://www.youtube.com/watch?v=eesqK59rhGA)
+[The Life-Cycle of Http Request](https://www.youtube.com/watch?v=eesqK59rhGA)
 
 ---
 
@@ -35,7 +35,7 @@
  
  Here is a Video that indicates how to create Http Request throw java in details
  
- ![HTTP Request in Java](https://www.youtube.com/watch?v=qzRKa8I36Ww)
+ [HTTP Request in Java](https://www.youtube.com/watch?v=qzRKa8I36Ww)
 
 
 ---

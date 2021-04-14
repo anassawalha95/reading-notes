@@ -40,6 +40,6 @@
 
 ---
 
-GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2008)
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2009)
 
 GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20401)

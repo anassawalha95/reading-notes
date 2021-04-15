@@ -87,3 +87,9 @@
    2. Java HTTP Request example [view](https://www.baeldung.com/java-http-request)  
    
 ---
+
+## Class 10  *Apirl 15 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2010)
+
+   1.  Stacks and Queues [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
+   
+---

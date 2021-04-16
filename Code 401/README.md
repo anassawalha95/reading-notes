@@ -93,3 +93,11 @@
    1.  Stacks and Queues [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
    
 ---
+
+## Class 11  *Apirl 18 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2011)
+
+   1.  Spring App Basics [view](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
+
+   2.  Spring MVC and Thymeleaf [view](https://spring.io/guides/gs/serving-web-content/)
+   
+---

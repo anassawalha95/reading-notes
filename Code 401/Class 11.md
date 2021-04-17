@@ -10,7 +10,7 @@
 
 > ## 1. Spring App Basics 
 
-**Create your first spiring App:**
+**Create your first Hello World spiring App:**
 
    1. git clone https://github.com/spring-guides/gs-serving-web-content.git
 
@@ -65,10 +65,29 @@
 ---
 
 
-> ## 2. Spring MVC and Thymeleaf
+> ## 2. Spring MVC and Thymeleaf: how to access data from templates
 
+   1. Spring model attributes
+      
+      [Spring model attributes Explanation](https://www.youtube.com/watch?v=stGq8lnEFlM)
+   
+   2. Request parameters
+    
+      [Request parameters Explanation](https://www.youtube.com/watch?v=vu7IKvkkz8w)
 
+   3. Session attributes
+   
+    [Session attributes Explanation](https://www.youtube.com/watch?v=NXMCnNxBip0)
+    
+   4. ServletContext attributes: "An attribute is an object and when such objects are associated with a ServletContext object, they are called context attributes and are available to the whole application"[source](https://www.decodejava.com/servlet-context-attributes.htm#:~:text=An%20attribute%20is%20an%20object,attributes%20through%20the%20ServletContext%20object.) 
+      
+      [ServletContext attributes](https://www.youtube.com/watch?v=xoL0FBK2H6A&t=433s)
+      
+   5. Spring beans
 
+      [Spring beans explained](https://www.youtube.com/watch?v=C3iALyO4FJI)
+      
+     
 ---
 
 GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2011)

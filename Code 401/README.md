@@ -101,3 +101,11 @@
    2.  Spring MVC and Thymeleaf [view](https://spring.io/guides/gs/serving-web-content/)
    
 ---
+
+## Class 13  *Apirl 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2013)
+
+   1.  Related data in Spring [view](https://www.baeldung.com/spring-data-rest-relationships)
+
+   2.  Spring Integration Testing [view]( https://www.baeldung.com/integration-testing-in-spring)
+   
+---

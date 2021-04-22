@@ -19,7 +19,9 @@
   6. N-ary Tree
 
 [Binary Trees](https://www.youtube.com/watch?v=ykAbHA-bkKM)
+
 [Binary Search Trees](https://www.youtube.com/watch?v=mtvbVLK5xDQ)
+
 [N-ary Tree](https://www.youtube.com/watch?v=jiR8SLAOglw)
 
 

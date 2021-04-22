@@ -9,8 +9,10 @@
 
 ![Trees](https://en.pimg.jp/022/154/532/1/22154532.jpg)
 
-**what is trees in data structure?** Tree in data structure are nonliner nods not like stacks,queues, and linkedlists. Its literally looks like the real world tree where it has root , branches and leafs
+**what is trees in data structure?** Tree in data structure are nonlinear nods not like stacks, queues, and linked lists. Its literally looks like the real world tree where it has root , branches and leaf
+
 **what are the type of trees in data structure?** [More Info](https://www.thecrazyprogrammer.com/2019/09/types-of-trees-in-data-structure.html#:~:text=A%20binary%20tree%20is%202,is%20either%200%20or%20N.&text=I%20hope%20you%20got%20the,of%20trees%20in%20data%20structure.)
+
   1. General Tree
   2. Binary Tree
   3. Binary Search Tree

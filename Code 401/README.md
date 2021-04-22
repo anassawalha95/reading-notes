@@ -109,3 +109,9 @@
    2.  Spring Integration Testing [view]( https://www.baeldung.com/integration-testing-in-spring)
    
 ---
+
+## Class 15  *Apirl 22 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2015)
+
+   1.  Trees [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
+   
+---

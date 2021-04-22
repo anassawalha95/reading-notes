@@ -102,6 +102,14 @@
    
 ---
 
+## Class 12  *Apirl 19 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2012)
+
+   1.  Baeldung: Spring Request Mapping [view](https://www.baeldung.com/spring-requestmapping)
+   2.  Spring guide: Accessing Data with JPA [view](https://spring.io/guides/gs/accessing-data-jpa/)
+   3.  Baeldung: Comparing repositories [view](https://www.baeldung.com/spring-data-repositories)
+   
+---
+
 ## Class 13  *Apirl 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2013)
 
    1.  Related data in Spring [view](https://www.baeldung.com/spring-data-rest-relationships)

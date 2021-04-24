@@ -123,3 +123,12 @@
    1.  Trees [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
    
 ---
+
+## Class 16  *Apirl 25 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2016)
+
+
+   1.  Spring Security overview [view](https://spring.io/guides/topicals/spring-security-architecture/)
+
+   2.  Spring Auth cheat sheet [view](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
+   
+---

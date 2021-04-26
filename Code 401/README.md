@@ -132,3 +132,8 @@
    2.  Spring Auth cheat sheet [view](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
    
 ---
+## Class 17  *Apirl 26 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2017)
+
+   1. Read (no need to do) this tutorial on OAuth [view](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+   
+---

@@ -142,5 +142,11 @@
 
    1. Many to many relationships [view](https://www.baeldung.com/hibernate-many-to-many)
    2. Security: a humorous overview [view](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf)
-   
+  
+---
+
+## Class 19  *Apirl 28 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2019)
+
+   1. Real time messaging with websockets [view](https://spring.io/guides/gs/messaging-stomp-websocket/)
+  
 ---

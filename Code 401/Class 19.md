@@ -1,4 +1,4 @@
-## Class 19  *Apirl 28 2021:
+## Class 19  *Apirl 28 2021:*
 
 > ## Topics
 

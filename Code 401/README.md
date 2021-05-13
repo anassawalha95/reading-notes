@@ -150,3 +150,9 @@
    1. Real time messaging with websockets [view](https://spring.io/guides/gs/messaging-stomp-websocket/)
   
 ---
+
+## Class 26  *May 16 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2026)
+
+   1. Android fundamentals [view](https://developer.android.com/guide/components/fundamentals)
+  
+---

@@ -34,6 +34,8 @@
 4. Content providers: manages a shared set of app data that you can store in the file system
 
 
+**Refere to the link a crush  course for android development**
+[crush course android development](https://www.youtube.com/watch?v=fis26HvvDII)
 ---
 
 GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2026)

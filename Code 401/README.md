@@ -157,7 +157,7 @@
   
 ---
 
-## Class 27  *May 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2027)
+## Class 27  *May 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2027.md)
 
    1. Android Tasks and the Back Stack [view](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
    2. Android Shared Preferences [view](https://developer.android.com/training/data-storage/shared-preferences)

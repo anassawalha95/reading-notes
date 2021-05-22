@@ -183,6 +183,14 @@
 
 ## Class 30  *May 20 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2030)
 
-   1.Hash Table
+   1. Hash Table
+      
+---
+
+
+## Class 31  *May 23 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2031)
+
+   1. [Espresso Testing (read Overview, Basics, and Recipes, plus any others that look interesting)](https://developer.android.com/training/testing/espresso)
+   2. [Ridiculous superpower: the Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
       
 ---

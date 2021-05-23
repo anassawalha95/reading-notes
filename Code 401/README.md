@@ -190,7 +190,15 @@
 
 ## Class 31  *May 23 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2031)
 
-   1. [Espresso Testing (read Overview, Basics, and Recipes, plus any others that look interesting)](https://developer.android.com/training/testing/espresso)
+   1. [Espresso Testing] (read Overview, Basics, and Recipes, plus any others that look interesting)](https://developer.android.com/training/testing/espresso)
    2. [Ridiculous superpower: the Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
       
+---
+
+## Class 32  *May 24 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2032)
+
+   1. Intro to Serverless [view] (https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
+   2. AWS Amplify Kool-Aid [view](https://aws.amazon.com/ar/amplify/)
+   3. GraphQL Intro [view] (https://docs.amplify.aws/cli/graphql-transformer/overview)   
+   4. 
 ---

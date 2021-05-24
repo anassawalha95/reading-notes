@@ -3,9 +3,30 @@
 
 > ## Topics
 
-   1. GraphQL @connection section [view] (https://docs.amplify.aws/cli/graphql-transformer/connection)   
+   1. GraphQL @connection section [view](https://docs.amplify.aws/cli/graphql-transformer/connection)   
 
 ---
+
+**what is GraphQL?** its a tool that used to transform the database modules to fully descriptive AWS CloudFormation templates buy using Schema Definition Language (SDL)
+
+**for example**
+
+      type Blog @model {
+        id: ID!
+        name: String!
+        posts: [Post] @connection(name: "BlogPosts")
+      }
+      type Post @model {
+        id: ID!
+        title: String!
+        blog: Blog @connection(name: "BlogPosts")
+        comments: [Comment] @connection(name: "PostComments")
+      }
+      type Comment @model {
+        id: ID!
+        content: String
+        post: Post @connection(name: "PostComments")
+      }
 
 
 

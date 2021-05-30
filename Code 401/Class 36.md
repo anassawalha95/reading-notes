@@ -2,7 +2,7 @@
 
 > ## Topics
 
-   1. Amplify and Cognito [view] (https://docs.amplify.aws/lib/auth/getting-started/q/platform/android)   
+   1. Amplify and Cognito [view](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android)   
 
 ---
 

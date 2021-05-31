@@ -1,4 +1,4 @@
-## Class 37  *May 31 2021:*  
+## Class 37  *June 1 2021:*  
 
 > ## Topics
 

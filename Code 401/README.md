@@ -217,3 +217,10 @@
    1. Amplify and Cognito [view] (https://docs.amplify.aws/lib/auth/getting-started/q/platform/android)   
 
 ---
+
+## Class 37  *June 1 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2037)
+
+   1. Introduction to Amazon S3 [view](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+   2. S3 with Amplify [view](https://aws-amplify.github.io/docs/android/storage)   
+   
+---

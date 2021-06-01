@@ -206,7 +206,7 @@
 ## Class 33  *May 25 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2033)
 
 
-   1. GraphQL @connection section [view] (https://docs.amplify.aws/cli/graphql-transformer/connection)   
+   1. GraphQL @connection section [view](https://docs.amplify.aws/cli/graphql-transformer/connection)   
 
 ---
 

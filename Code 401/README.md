@@ -210,7 +210,7 @@
 
 ---
 
-## Class 34  *May 26 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2034)
+## Class 35  *May 26 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2035)
 
 > ## Topics
 

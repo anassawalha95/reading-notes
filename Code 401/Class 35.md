@@ -1,4 +1,4 @@
-## Class 34  *May 26 2021:*  
+## Class 35  *May 26 2021:*  
 
 > ## Topics
 
@@ -20,6 +20,6 @@ what is a acyclic graph?
 
 ---
 
-GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2034)
+GitHub Live: [View](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2035)
 
 GitHub Repo: [View](https://github.com/anassawalha95/reading-notes/tree/main/Code%20401)

@@ -197,9 +197,9 @@
 
 ## Class 32  *May 24 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2032)
 
-   1. Intro to Serverless [view] (https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
+   1. Intro to Serverless [view](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
    2. AWS Amplify Kool-Aid [view](https://aws.amazon.com/ar/amplify/)
-   3. GraphQL Intro [view] (https://docs.amplify.aws/cli/graphql-transformer/overview)   
+   3. GraphQL Intro [view](https://docs.amplify.aws/cli/graphql-transformer/overview)   
 
 ---
 

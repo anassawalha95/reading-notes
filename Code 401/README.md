@@ -233,3 +233,12 @@
    2. S3 with Amplify [view](https://aws-amplify.github.io/docs/android/storage)   
    
 ---
+
+
+## Class 38  *June 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2038)
+
+   1. Amazon SNS [view](https://aws.amazon.com/sns/getting-started/)
+   2. SNS with Amplify [view](https://aws-amplify.github.io/docs/android/storage)   
+   
+---
+

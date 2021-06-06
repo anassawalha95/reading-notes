@@ -248,7 +248,7 @@
    
 ---
 
-## Class 42  *June 7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2041)
+## Class 42  *June 7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2042)
 
    1. Location [view](https://developer.android.com/training/location/retrieve-current)  
    

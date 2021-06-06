@@ -248,7 +248,13 @@
    
 ---
 
-## Class 43  *June 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2043)
+## Class 42  *June 7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2041)
+
+   1. Location [view](https://developer.android.com/training/location/retrieve-current)  
+   
+---
+
+## Class 43  *June 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2043)
 
    1. Amplify and Kinesis [view](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android)  
    

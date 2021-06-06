@@ -248,4 +248,8 @@
    
 ---
 
+## Class 43  *June 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2043)
 
+   1. Amplify and Kinesis [view](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android)  
+   
+---

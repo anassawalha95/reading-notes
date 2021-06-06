@@ -6,7 +6,7 @@
 ## Table of Content 
 
 
-## Class 01  *Mar 28 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2001)
+## Class 01  *Mar 28 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2001)
 
    1. JAVA Basics [view](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
     
@@ -18,7 +18,7 @@
 
 ---
 
-## Class 02  *Apirl 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2002)
+## Class 02  *Apirl 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2002)
 
 
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Class 03  *Apirl 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2003)
+## Class 03  *Apirl 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2003)
 
 
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Class 04  *Apirl7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2004)
+## Class 04  *Apirl7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2004)
 
 
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Class 05  *Apirl 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2005)
+## Class 05  *Apirl 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2005)
 
 
    1.  Linked Lists  [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html)
@@ -64,7 +64,7 @@
    
 ---
 
-## Class 06  *Apirl 11 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2006)
+## Class 06  *Apirl 11 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2006)
 
    1. Java OO Tutorial  [view](https://docs.oracle.com/javase/tutorial/java/concepts/)
    
@@ -79,7 +79,7 @@
     
 ---
 
-## Class 09  *Apirl 14 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2009)
+## Class 09  *Apirl 14 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2009)
 
 
    1. Review: High-level HTTP [view](https://dev.to/dangolant/things-i-brushed-up-on-this-week-the-http-request-lifecycle-)
@@ -88,13 +88,13 @@
    
 ---
 
-## Class 10  *Apirl 15 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2010)
+## Class 10  *Apirl 15 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2010)
 
    1.  Stacks and Queues [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
    
 ---
 
-## Class 11  *Apirl 18 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2011)
+## Class 11  *Apirl 18 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2011)
 
    1.  Spring App Basics [view](https://www.thymeleaf.org/doc/articles/springmvcaccessdata.html)
 
@@ -102,7 +102,7 @@
    
 ---
 
-## Class 12  *Apirl 19 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2012)
+## Class 12  *Apirl 19 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2012)
 
    1.  Baeldung: Spring Request Mapping [view](https://www.baeldung.com/spring-requestmapping)
    2.  Spring guide: Accessing Data with JPA [view](https://spring.io/guides/gs/accessing-data-jpa/)
@@ -110,7 +110,7 @@
    
 ---
 
-## Class 13  *Apirl 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2013)
+## Class 13  *Apirl 20 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2013)
 
    1.  Related data in Spring [view](https://www.baeldung.com/spring-data-rest-relationships)
 
@@ -118,13 +118,13 @@
    
 ---
 
-## Class 15  *Apirl 22 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2015)
+## Class 15  *Apirl 22 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2015)
 
    1.  Trees [view](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
    
 ---
 
-## Class 16  *Apirl 25 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2016)
+## Class 16  *Apirl 25 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2016)
 
 
    1.  Spring Security overview [view](https://spring.io/guides/topicals/spring-security-architecture/)
@@ -132,32 +132,33 @@
    2.  Spring Auth cheat sheet [view](https://github.com/codefellows/seattle-java-401d2/blob/master/SpringAuthCheatSheet.md)
    
 ---
-## Class 17  *Apirl 26 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2017)
+
+## Class 17  *Apirl 26 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2017)
 
    1. Read (no need to do) this tutorial on OAuth [view](https://spring.io/guides/tutorials/spring-boot-oauth2/)
    
 ---
 
-## Class 18  *Apirl 27 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2018)
+## Class 18  *Apirl 27 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2018)
 
    1. Many to many relationships [view](https://www.baeldung.com/hibernate-many-to-many)
    2. Security: a humorous overview [view](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf)
   
 ---
 
-## Class 19  *Apirl 28 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2019)
+## Class 19  *Apirl 28 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2019)
 
    1. Real time messaging with websockets [view](https://spring.io/guides/gs/messaging-stomp-websocket/)
   
 ---
 
-## Class 26  *May 16 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2026)
+## Class 26  *May 16 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2026)
 
    1. Android fundamentals [view](https://developer.android.com/guide/components/fundamentals)
   
 ---
 
-## Class 27  *May 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2027)
+## Class 27  *May 17 2021:* [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2027)
 
    1. Android Tasks and the Back Stack [view](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
    2. Android Shared Preferences [view](https://developer.android.com/training/data-storage/shared-preferences)
@@ -165,14 +166,14 @@
 ---
 
 
-## Class 28  *May 18 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2028)
+## Class 28  *May 18 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2028)
 
    1. RecyclerView for displaying lists of data [view](https://developer.android.com/guide/topics/ui/layout/recyclerview#java)
   
 ---
 
 
-## Class 29  *May 19 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2029)
+## Class 29  *May 19 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2029)
 
    1. Overview: Saving data with Room [view](https://developer.android.com/training/data-storage/room)
    2. Defining entities in Room [view](https://developer.android.com/training/data-storage/room/defining-data)
@@ -181,21 +182,21 @@
   
 ---
 
-## Class 30  *May 20 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2030)
+## Class 30  *May 20 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2030)
 
    1. Hash Table
       
 ---
 
 
-## Class 31  *May 23 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2031)
+## Class 31  *May 23 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2031)
 
    1. [Espresso Testing] (read Overview, Basics, and Recipes, plus any others that look interesting)](https://developer.android.com/training/testing/espresso)
    2. [Ridiculous superpower: the Espresso Test Recorder](https://developer.android.com/studio/test/espresso-test-recorder)
       
 ---
 
-## Class 32  *May 24 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2032)
+## Class 32  *May 24 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2032)
 
    1. Intro to Serverless [view](https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
    2. AWS Amplify Kool-Aid [view](https://aws.amazon.com/ar/amplify/)
@@ -203,14 +204,14 @@
 
 ---
 
-## Class 33  *May 25 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2033)
+## Class 33  *May 25 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2033)
 
 
    1. GraphQL @connection section [view](https://docs.amplify.aws/cli/graphql-transformer/connection)   
 
 ---
 
-## Class 35  *May 26 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2035)
+## Class 35  *May 26 2021:*   [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2035)
 
 > ## Topics
 
@@ -220,14 +221,14 @@
 ---
 
 
-## Class 36  *May 31 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2036)
+## Class 36  *May 31 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2036)
 
 
    1. Amplify and Cognito [view](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android)   
 
 ---
 
-## Class 37  *June 1 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2037)
+## Class 37  *June 1 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2037)
 
    1. Introduction to Amazon S3 [view](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
    2. S3 with Amplify [view](https://aws-amplify.github.io/docs/android/storage)   
@@ -235,26 +236,26 @@
 ---
 
 
-## Class 38  *June 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2038)
+## Class 38  *June 5 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2038)
 
    1. Amazon SNS [view](https://aws.amazon.com/sns/getting-started/)
    2. SNS with Amplify [view](https://aws-amplify.github.io/docs/android/storage)   
    
 ---
 
-## Class 41  *June 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2041)
+## Class 41  *June 6 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2041)
 
    1. Intent Filters [view](https://developer.android.com/training/basics/intents/filters)  
    
 ---
 
-## Class 42  *June 7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2042)
+## Class 42  *June 7 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2042)
 
    1. Location [view](https://developer.android.com/training/location/retrieve-current)  
    
 ---
 
-## Class 43  *June 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20301/Class%2043)
+## Class 43  *June 8 2021:*  [view](https://anassawalha95.github.io/reading-notes/Code%20401/Class%2043)
 
    1. Amplify and Kinesis [view](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android)  
    

@@ -1,4 +1,4 @@
-## Class 38  *June 6 2021:* 
+## Class 38  *June 5 2021:* 
 
 > ## Topics
 

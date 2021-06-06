@@ -1,4 +1,4 @@
-## Class 43  *June 7 2021:*
+## Class 43  *June 8 2021:*
 
 > ## Topics
 
